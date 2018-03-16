@@ -1,0 +1,173 @@
+commit c45f3044783ad8cae36493ec1e0c3ea0b02b9eea
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 23:19:40 2018 -0400
+
+    valgrind testing
+
+commit f2ef0d7134be131128a200dcc12545f4760a4a64
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 22:36:05 2018 -0400
+
+    cleaned and added README
+
+commit 1bca5fad261e5671164ebd459e5cb8989b621e1b
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 21:39:58 2018 -0400
+
+    cleaned
+
+commit dac1da0d838e43e4ad4ac417c43c6af7fb813002
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 21:31:48 2018 -0400
+
+    couple last edits
+
+commit 9e659ebc079cd4720a7638cd266a109c8e67df17
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 21:04:08 2018 -0400
+
+    fixed contrast function
+
+commit 3942d6adf52eb72a62c942e7e28a1a290e1947cf
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 20:48:04 2018 -0400
+
+    working version for all
+
+commit c071d68f9a3d8be4421fb4e50605a77ce2377b0c
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 20:11:54 2018 -0400
+
+    working crop
+
+commit b4b0af734d04c9d50acf66f9646a4641fbb16bb1
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 18:42:23 2018 -0400
+
+    working blackout
+
+commit 77869be4747c7c2973db6de0b98d3f87b7b36a98
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 18:16:03 2018 -0400
+
+    fixing data arrangement
+
+commit ac29b33aa9c88501da75708c96a68faed37520b2
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 18:15:07 2018 -0400
+
+    updating the data folder
+
+commit 51f8e6c3fc41aa63ddea2425d23e131fe878e31b
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 18:12:22 2018 -0400
+
+    fixed comment sifting bug, working swap now
+
+commit dcec1e707ed8038e31e925018ac3919c938ae603
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 16:30:20 2018 -0400
+
+    added end of line character to error messages
+
+commit 8bbe1a6191b98a21bdcb637e4f134f1490483415
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 16:13:02 2018 -0400
+
+    addressed all possible memory leak issues
+
+commit 8323cecab4f45b5dee2e80f21fca9a336041dd94
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 16:00:03 2018 -0400
+
+    working full structure
+
+commit 397352adfaa1c1de41d7e6c0788f3db6d369e941
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 15:21:09 2018 -0400
+
+    revised commandUtil
+
+commit a31861a7d414366f2ddb36328d57e2c23bcfd8b0
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 14:22:30 2018 -0400
+
+    revised cropped imageManip.c
+
+commit 54a4410bfac6f43206992953964fed04128edc70
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 14:13:57 2018 -0400
+
+    adjusted Makefile for newly added imageManip files
+
+commit d6a9b061a4a770f50bfa25d0156d72cdaf7075ba
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 13:23:27 2018 -0400
+
+    refined main function, specified ppmIO functions
+
+commit 92c964876ae9b34d3a6184b65a9f5d15eb43cc8b
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 12:58:17 2018 -0400
+
+    working first error check
+
+commit 164bee4f691a14ca0c109e6c6194d37b6697907b
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 01:26:14 2018 -0500
+
+    updated Makefile
+
+commit 2d2af7d184922cc6d7b71e5ef47a7061bb0390ee
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sun Mar 11 01:11:06 2018 -0500
+
+    trying out the main function
+
+commit 1c2e35290185cb29b9f92c45f6c97234f9e36f18
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sat Mar 10 20:25:37 2018 -0500
+
+    remove junk files
+
+commit 520996b3f5c5976491211695c886b6f0cdce37ab
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sat Mar 10 20:24:50 2018 -0500
+
+    working file test function
+
+commit d205d0e5e6d816002e625767367cfea6c7598c84
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sat Mar 10 19:30:16 2018 -0500
+
+    file reading testing
+
+commit 397f8be81e122c1aa13307774a0a52c5dc3bb1b1
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Sat Mar 10 17:27:31 2018 -0500
+
+    new file org
+
+commit 211e26f60ccff4aa7dcb07d384470c84e38493cd
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Wed Mar 7 13:17:14 2018 -0500
+
+    making project file
+
+commit ecd5f6ad35054df9810eb4e1a9e7b22d1e78154d
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Wed Mar 7 13:08:09 2018 -0500
+
+    latest start
+
+commit c7fbfabeaf9c7c3177feba59ff0675ac3bfb7495
+Author: Nicholas Adam Kohl VI <adamkohl14@gmail.com>
+Date:   Wed Mar 7 12:32:15 2018 -0500
+
+    created data directory
+
+commit 8ca6de050b554f3684543ce3c6ed4aeb1321b6b7
+Author: Arden Chew <achew4@jhu.edu>
+Date:   Wed Mar 7 12:10:08 2018 -0500
+
+    Initial commit
